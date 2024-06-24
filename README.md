@@ -1,15 +1,15 @@
 # **Takım İsmi**
 
-Takım X
+Takım 61 
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
-
+- Arda Yavuz: Product Owner
+- Ayşenur Ustem: Scrum Master
+- Bahar Özden Yıldırım: Team Member/Developer
+- Ahme Deveci: Team Member/ Developer
 ## Ürün İsmi
 
 --Movie App--
