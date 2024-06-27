@@ -8,11 +8,11 @@ Takım 61
 
 - Arda Yavuz: Product Owner
 - Ayşenur Ustem: Scrum Master
-- Bahar Özden Yıldırım: Team Member/Developer
-- Ahme Deveci: Team Member/ Developer
+- Bahar Özden Yıldırım: Development Team Member
+- Ahmet Deveci: Development Team Member
+- Miraç Değer: Development Team Member
 ## Ürün İsmi
 
---Movie App--
 
 ## Ürün Açıklaması
 
